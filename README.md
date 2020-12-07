@@ -5,5 +5,7 @@ Music data will be exported when pressed on 「Export all music data」button on
 
 Exported music data is stored **「Documents」** direcotry in app.
 
+If the export fails even once, the error log will be saved in **error_log.txt** in the **「Documents」** directory.
+
 ## Development environment
 Xcode12.2
